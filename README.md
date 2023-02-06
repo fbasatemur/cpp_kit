@@ -54,6 +54,36 @@ Some of the codes written in Basic C++ and Advanced C++ courses
 Includes examples of advanced C++ features
 
 
+## Books
+[The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) [EN]
+C++ book recommendations on Stack Overflow
+
+[modern-cpp-tutorial](https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) [EN]
+Modern C++ Tutorial: C++11/14/17/20 On the Fly
+
+[cpp-notes-for-professionals](https://www.dbooks.org/c-notes-for-professionals-1465/) [EN]
+The C++ Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow.
+
+[C++ Best Practices](https://www.amazon.com/Best-Practices-Simple-Specific-Highlighting/dp/B0B1CDKZXL) [EN]
+C++ Best Practices: 45ish Simple Rules with Specific Action Items for Better C++
+
+<!-- Surprise eggs for enthusiasts 
+[C++ Tips & Secrets for Professionals](https://goalkicker.com/CPlusPlusBook/CPlusPlusProfessionalTipsSecrets.pdf) [EN]
+C++ Tips & Secrets for Professionals
+-->
+
+[Desighn Patterns - Gang of Four](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) [EN]
+Design Patterns: Elements of Reusable Object-Oriented Software
+
+[The C++ Programming Language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) [EN] 
+The C++ Programming Language by Bjarne Stroustrup
+
+[Tour of C++, A (C++ In-Depth Series)](https://www.amazon.com/Tour-C-Bjarne-Stroustrup/dp/0136816487) [EN]
+Bjarne Stroustrup provides an overview of ISO C++, C++20, that aims to give experienced programmers a clear understanding of what constitutes modern C++.
+
+[C++ Template Metaprogramming](https://www.amazon.com/gp/product/B003XNTTBW) [EN]
+C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond
+
  ## Awesomes
 [awesomeperfcpp](https://github.com/fenbf/AwesomePerfCpp) [EN] C/C++ performance optimization resources: talks, articles, books, libraries, tools etc.
 
@@ -61,14 +91,15 @@ Includes examples of advanced C++ features
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
 
 
-## Modern Design Patterns
+## Design Patterns
 [design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp) [EN]
 C++ Design Patterns
 
 [design-patterns-in-cpp17](https://github.com/downdemo/Design-Patterns-in-Cpp17) [ZH]
 C++17 implementation of 23 GoF design patterns for zero memory leaks using smart pointers.
 
-
+[CRTP](https://www.youtube.com/watch?v=ZQ-8laAr9Dg) [EN]
+Curiously Recurring Template Pattern may be used to implement "compile-time polymorphism", when a base class exposes an interface, and derived classes implement such interface.
 ## Weekly
 [cpp_tip_of_the_week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week) [EN]
 C++ Tip Of The Week
