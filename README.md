@@ -53,6 +53,15 @@ Some of the codes written in Basic C++ and Advanced C++ courses
 [cpp_advanced](https://github.com/necatiergin/cpp_advanced) [TR]
 Includes examples of advanced C++ features
 
+[cpp-template-tutorial](https://github.com/wuye9036/CppTemplateTutorial) [ZH]
+Chinese resources for readers who want to master metaprogramming.
+
+[c-cpp-notes](https://github.com/caiorss/C-Cpp-Notes) [EN]
+Notes about modern C++, C++11, C++14 and C++17, Boost Libraries, ABI, foreign function interface and reference cards.
+
+[multithreading-in-cplusplus](https://github.com/naserrezayi1998/multithreading-in-cplusplus) [EN]
+It contains simple examples of multithreaded C++ programming.
+
 
 ## Books
 [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) [EN]
@@ -72,7 +81,7 @@ C++ Best Practices: 45ish Simple Rules with Specific Action Items for Better C++
 C++ Tips & Secrets for Professionals
 -->
 
-[Desighn Patterns - Gang of Four](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) [EN]
+[Design Patterns - Gang of Four](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) [EN]
 Design Patterns: Elements of Reusable Object-Oriented Software
 
 [The C++ Programming Language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) [EN] 
