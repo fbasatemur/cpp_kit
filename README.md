@@ -109,6 +109,15 @@ C++17 implementation of 23 GoF design patterns for zero memory leaks using smart
 
 [CRTP](https://www.youtube.com/watch?v=ZQ-8laAr9Dg) [EN]
 Curiously Recurring Template Pattern may be used to implement "compile-time polymorphism", when a base class exposes an interface, and derived classes implement such interface.
+
+## Idioms
+[CppIdioms](https://github.com/schostac/CppIdioms) [EN]
+C++ in Detail: Common Idioms
+
+[cpp-idioms](https://github.com/liuzengh/CppIdioms) [EN-ZH]
+It includes examples of implementing common C++ idioms.
+
+
 ## Weekly
 [cpp_tip_of_the_week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week) [EN]
 C++ Tip Of The Week
