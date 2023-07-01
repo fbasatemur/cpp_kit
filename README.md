@@ -100,7 +100,7 @@ C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Bey
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
 
 
-## Design Patterns
+## Design Patterns & Idioms
 [design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp) [EN]
 C++ Design Patterns
 
@@ -110,7 +110,6 @@ C++17 implementation of 23 GoF design patterns for zero memory leaks using smart
 [CRTP](https://www.youtube.com/watch?v=ZQ-8laAr9Dg) [EN]
 Curiously Recurring Template Pattern may be used to implement "compile-time polymorphism", when a base class exposes an interface, and derived classes implement such interface.
 
-## Idioms
 [CppIdioms](https://github.com/schostac/CppIdioms) [EN]
 C++ in Detail: Common Idioms
 
@@ -125,7 +124,17 @@ C++ Tip Of The Week
 [cpp_weekly](https://github.com/lefticus/cpp_weekly) [EN]
 The official C++ Weekly Repository. Code samples and notes of future / past episodes will land here at various times. PR's will be accepted in some cases.
 
+## FAQS & Blogs
 
+[Herb Sutter-GotW](https://herbsutter.com/gotw/) [EN] Guru of the Week (GotW) is a series of C++ programming problems created and written by Herb Sutter.
+
+[Bjarne Stroustrup-FAQ](http://www.stroustrup.com/bs_faq.html) [EN] This page concentrates on personal opinions and general questions related to philosophy.
+
+[Bjarne Stroustrup-Cpp11_FAQ](http://www.stroustrup.com/C++11FAQ.html) [EN] C++11 - the new ISO C++ standard
+
+[ISO-CPP_FAQ](https://isocpp.org/faq) [EN]  Marshall Cline’s C++ FAQs, and Bjarne Stroustrup’s C++ FAQ
+
+[Cpp 2006–2020](https://dl.acm.org/doi/pdf/10.1145/3386320) [EN] The article presents extensive lists of significant features documenting the growth of the C++ language, accompanied by short code snippets that illustrate these features and the programming techniques they support. Additionally, it discusses failed proposals and the ensuing discussions that led to their lack of success.
 ## CMake, Boost
 [cmake-templates](https://github.com/district10/cmake-templates) [EN] Some CMake Templates (examples). Qt, Boost, OpenCV, C++11, etc.
 
