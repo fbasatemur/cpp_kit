@@ -90,10 +90,13 @@ The C++ Programming Language by Bjarne Stroustrup
 [Tour of C++, A (C++ In-Depth Series)](https://www.amazon.com/Tour-C-Bjarne-Stroustrup/dp/0136816487) [EN]
 Bjarne Stroustrup provides an overview of ISO C++, C++20, that aims to give experienced programmers a clear understanding of what constitutes modern C++.
 
+[API Design for C++](https://www.oreilly.com/library/view/api-design-for/9780123850034/) [EN]
+API Design for C++ provides a comprehensive discussion of Application Programming Interface (API) development, from initial design through implementation, testing, documentation, release, versioning, maintenance, and deprecation.
+
 [C++ Template Metaprogramming](https://www.amazon.com/gp/product/B003XNTTBW) [EN]
 C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond
 
- ## Awesomes
+## Awesomes
 [awesomeperfcpp](https://github.com/fenbf/AwesomePerfCpp) [EN] C/C++ performance optimization resources: talks, articles, books, libraries, tools etc.
 
 [awesome-cpp](https://github.com/fffaraz/awesome-cpp) [EN]
